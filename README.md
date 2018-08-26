@@ -22,3 +22,16 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+Installation
+
+1. rbenv
+
+
+
+2. ruby
+
+3. Prague Meme Hunt web app
+
+
